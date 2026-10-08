@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Arrivees_stochastiques_clients_connus.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 222586
+  },
+  {
+    "name": "Attente_mini_dans_stock.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 224834
+  },
+  {
+    "name": "bottling.s8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 140828
+  },
+  {
+    "name": "Box.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 650899
+  },
+  {
+    "name": "Choix_Production_stock_mini.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 329193
+  },
+  {
+    "name": "Convoyeur.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 216790
+  },
+  {
+    "name": "Decision_periodique.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 661398
+  },
+  {
+    "name": "Distribution_Discrete_et_Information_Store.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 779502
+  },
+  {
+    "name": "Distribution_Label_Based.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 145301
+  },
+  {
+    "name": "Distribution_Time_Dependant.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 95982
+  },
+  {
+    "name": "Distribution_Time_Dependant_0.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 537947
+  },
+  {
+    "name": "Distribution_Time_Dependant_24heures.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 154128
+  },
+  {
+    "name": "Distribution_Time_Dependant_Jour_semaine.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 515500
+  },
+  {
+    "name": "Distribution_Time_Dependant_Jour_semaine_IS.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 1710913
+  },
+  {
+    "name": "Distribution_Time_Dependant_partition.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 456852
+  },
+  {
+    "name": "DOCTEUR.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 491770
+  },
+  {
+    "name": "DOCTEUR_Information_Store_0.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 852170
+  },
+  {
+    "name": "DOCTEUR_Information_Store_1.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 1307531
+  },
+  {
+    "name": "DOCTEUR_Information_Store_2.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 432391
+  },
+  {
+    "name": "DOCTEUR_ressource.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 319532
+  },
+  {
+    "name": "DOCTEUR_Shift.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 415455
+  },
+  {
+    "name": "Duplication_composant.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 239548
+  },
+  {
+    "name": "fastfood.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 259939
+  },
+  {
+    "name": "FASTFOOD.XLS",
+    "category": "Tableurs",
+    "ext": "XLS",
+    "size": 21504
+  },
+  {
+    "name": "Generation_Bon_de_Commande.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 1495502
+  },
+  {
+    "name": "Generation_et_Traitement_BC.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 336774
+  },
+  {
+    "name": "Icone_Item_en_sortie.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 618430
+  },
+  {
+    "name": "Impredictibilite_processus_simple.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 264182
+  },
+  {
+    "name": "Initialisation_Stock_deterministe.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 709407
+  },
+  {
+    "name": "Initialisation_Stock_stochastique.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 166776
+  },
+  {
+    "name": "Introduction_Simulation.xlsx",
+    "category": "Tableurs",
+    "ext": "XLSX",
+    "size": 220730
+  },
+  {
+    "name": "JobShop.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 122696
+  },
+  {
+    "name": "LIFO.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 111882
+  },
+  {
+    "name": "MECANOR-I.XLS",
+    "category": "Tableurs",
+    "ext": "XLS",
+    "size": 41472
+  },
+  {
+    "name": "MECANOR-II.xls",
+    "category": "Tableurs",
+    "ext": "XLS",
+    "size": 37376
+  },
+  {
+    "name": "MECANOR-II_bis.xls",
+    "category": "Tableurs",
+    "ext": "XLS",
+    "size": 31232
+  },
+  {
+    "name": "Open_shop.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 195034
+  },
+  {
+    "name": "Parametrisation_distribution_probability_profile.S8",
+    "category": "Distributions",
+    "ext": "S8",
+    "size": 407329
+  },
+  {
+    "name": "Peremption_fixe.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 165146
+  },
+  {
+    "name": "Peremption_variable.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 61221
+  },
+  {
+    "name": "PoliceAeroport.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 244471
+  },
+  {
+    "name": "Pool.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 191553
+  },
+  {
+    "name": "Priority_Items.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 182400
+  },
+  {
+    "name": "Priority_Resources_niveau_fixe.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 121309
+  },
+  {
+    "name": "Replication_work-center.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 120555
+  },
+  {
+    "name": "Resources_Shift_1.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 110522
+  },
+  {
+    "name": "Resources_Shift_2.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 218155
+  },
+  {
+    "name": "Resources_Shift_3.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 275544
+  },
+  {
+    "name": "Ressource_Polylavence_pool.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 153856
+  },
+  {
+    "name": "resultat.xls",
+    "category": "Tableurs",
+    "ext": "XLS",
+    "size": 99328
+  },
+  {
+    "name": "RISKTutorial_ExpertsCorner.pdf",
+    "category": "Supports de cours",
+    "ext": "PDF",
+    "size": 1041906
+  },
+  {
+    "name": "Routing_in_Circulate.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 240037
+  },
+  {
+    "name": "Routing_in_Circulate_Label.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 203208
+  },
+  {
+    "name": "Routing_in_Collect_and_Assemble_1.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 210422
+  },
+  {
+    "name": "Routing_in_Collect_and_Assemble_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 152183
+  },
+  {
+    "name": "Routing_in_Collect_and_Match_1.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 165751
+  },
+  {
+    "name": "Routing_in_Collect_and_Match_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 345248
+  },
+  {
+    "name": "Routing_in_label_Mini.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 760486
+  },
+  {
+    "name": "Routing_in_longest.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 79644
+  },
+  {
+    "name": "Routing_in_longest_Label.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 200212
+  },
+  {
+    "name": "Routing_in_oldest.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 229128
+  },
+  {
+    "name": "Routing_in_oldest_Label.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 235270
+  },
+  {
+    "name": "Routing_in_Passive.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 232545
+  },
+  {
+    "name": "Routing_in_priority.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 228493
+  },
+  {
+    "name": "Routing_in_Priority_Label.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 234503
+  },
+  {
+    "name": "Routing_in_Use_Label_Batching_0.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 88591
+  },
+  {
+    "name": "Routing_in_Use_Label_Batching_1.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 190470
+  },
+  {
+    "name": "Routing_in_Use_Label_Batching_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 99307
+  },
+  {
+    "name": "Routing_in_Use_Label_Batching_OR_Collect.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 106753
+  },
+  {
+    "name": "Routing_in_youngest.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 82938
+  },
+  {
+    "name": "Routing_in_youngest_Label.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 205471
+  },
+  {
+    "name": "Routing_Job_Matrix.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 145092
+  },
+  {
+    "name": "Routing_out_2_Labels.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 91382
+  },
+  {
+    "name": "Routing_out_Circulate.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 82089
+  },
+  {
+    "name": "Routing_out_Desassembler.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 259635
+  },
+  {
+    "name": "Routing_Out_Fractionnement_1.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 90772
+  },
+  {
+    "name": "Routing_Out_Fractionnement_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 372497
+  },
+  {
+    "name": "Routing_out_Label_1.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 84389
+  },
+  {
+    "name": "Routing_out_Label_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 86204
+  },
+  {
+    "name": "Routing_out_Label_3.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 453015
+  },
+  {
+    "name": "Routing_out_Percent.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 84420
+  },
+  {
+    "name": "Routing_out_Priority.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 70639
+  },
+  {
+    "name": "Routing_out_Shortest.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 84460
+  },
+  {
+    "name": "Routing_out_Uniform.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 84543
+  },
+  {
+    "name": "scheduled_maintenance.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 574709
+  },
+  {
+    "name": "Service_des_urgences.S8",
+    "category": "Cas pratiques",
+    "ext": "S8",
+    "size": 2057227
+  },
+  {
+    "name": "Simulation (2).pdf",
+    "category": "Supports de cours",
+    "ext": "PDF",
+    "size": 9673000
+  },
+  {
+    "name": "Sortie_du_systeme_fonction_du_temps.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 331479
+  },
+  {
+    "name": "Stock_&_Information_Store.S8",
+    "category": "Files et stocks",
+    "ext": "S8",
+    "size": 1103046
+  },
+  {
+    "name": "Synchro_proces_diverg_converg.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 92944
+  },
+  {
+    "name": "Synchro_processus_paralleles.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 101496
+  },
+  {
+    "name": "Synchronisation_processus_sequentiels.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 134684
+  },
+  {
+    "name": "Synchronisation_stock_produits_Multiples.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 826173
+  },
+  {
+    "name": "Synchronisation_stock_produits_Multiples_2.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 720883
+  },
+  {
+    "name": "Synchronisation_stock_produits_Multiples_3.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 394838
+  },
+  {
+    "name": "Synchronisation_stock_produits_Multiples_Collect.S8",
+    "category": "Routage et synchronisation",
+    "ext": "S8",
+    "size": 136430
+  },
+  {
+    "name": "Temps_de_transport.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 1519686
+  },
+  {
+    "name": "Unique.S8",
+    "category": "Modèles généraux",
+    "ext": "S8",
+    "size": 272709
+  },
+  {
+    "name": "Work_Center_Shifts_Stock_in_individuel_1.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 760316
+  },
+  {
+    "name": "Work_Center_Shifts_Stock_in_individuel_2.S8",
+    "category": "Ressources",
+    "ext": "S8",
+    "size": 351461
+  }
+]
